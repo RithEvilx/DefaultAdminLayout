@@ -1,18 +1,28 @@
-📦 Project Overview
-This project is built with React, TypeScript, and Chakra UI (v3.22.0), powered by Vite.
+📦 Project Overview <br/>
+This project is built with React, TypeScript, and Chakra UI (v3.22.0), powered by Vite. <br/>
 
-🛠️ Admin Dashboard
-Access the admin dashboard at:
-  👉 /admin/login
-Credentials:
-  👉 Email: admin@gmail.com
-  👉 Password: 1
+🌐 Multi-Language Support <br/>
+This project supports multiple languages using i18next. <br/>
+You can change the language via the "Settings" button located at the bottom of the sidebar. <br/>
+Clicking it will open a popup menu — choose the "Languages" option to open a language selector dialog. <br/>
+Currently supported languages: <br/>
+&nbsp;&nbsp;&nbsp;👉 🇺🇸 English <br/>
+&nbsp;&nbsp;&nbsp;👉 🇰🇭 Khmer <br/>
+
+🛠️ Admin Dashboard <br/>
+*Access the admin dashboard at: <br/>
+&nbsp;&nbsp;&nbsp;👉 /admin/login <br/>
+*Credentials: <br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 Email: admin@gmail.com <br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉 Password: 1
 
 🎨 Customize Styles
-You can customize styles in:
-  👉 /src/constants/app.tsx
+You can customize styles in: <br/>
+&nbsp;&nbsp;&nbsp;👉 /src/constants/app.tsx
 
 ```
+//! app.tsx
+
 // Sidebar
 export const SidebarLogo = Logo;
 export const SidebarBgColor = "#fff";
