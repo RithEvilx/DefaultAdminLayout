@@ -1,3 +1,32 @@
+🚀 Getting Started <br/>
+📥 Clone the Repository <br/>
+You can clone this project using Git: <br/>
+```
+git clone https://github.com/RithEvilx/DefaultAdminLayout.git
+```
+<details>
+  <summary>💡 Don't know how to clone?</summary> <br/>
+
+  <ol>
+    <li>Go to the <strong>Code</strong> tab of this repository.</li>
+    <li>Select the <strong>HTTPS</strong> option under "Clone".</li>
+    <li>Click the 📋 copy icon to copy the URL.</li>
+    <li>Open Run dialog (<kbd>Win</kbd> + <kbd>R</kbd>), type <code>cmd</code>, and press Enter.</li>
+    <li>Paste the following command into the terminal:</li>
+  </ol>
+
+  <pre><code>git clone https://github.com/RithEvilx/DefaultAdminLayout.git</code></pre>
+</details>
+
+
+### 📦 Install Dependencies <br/>
+
+## With npm <br/>
+&nbsp;&nbsp;&nbsp;👉 npm install <br/>
+
+## Or with yarn <br/>
+&nbsp;&nbsp;&nbsp;👉 yarn install <br/><br/>
+
 📦 Project Overview <br/>
 This project is built with React, TypeScript, and Chakra UI (v3.22.0), powered by Vite. <br/>
 
